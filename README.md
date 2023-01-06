@@ -1,1 +1,1 @@
-# AWS_Security
+# AWS_GuardDuty
